@@ -20,13 +20,13 @@
     <div align="center">
         <img align="center" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
         <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-script-web-development-flaticons-lineal-color-flat-icons-2.png" />
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png">
-        <img src="https://img.icons8.com/color/48/000000/git.png" />
-        <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" />
-        <img src="https://img.icons8.com/metro/26/undefined/c-plus-plus.png"/>
-        <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo-2.png" />
-        <img src="https://img.icons8.com/color/48/undefined/python--v1.png" />
+        <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-script-web-development-flaticons-lineal-color-flat-icons-2.png" />
+        <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png">
+        <img align="center" src="https://img.icons8.com/color/48/000000/git.png" />
+        <img align="center" src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" />
+        <img align="center" src="https://img.icons8.com/metro/26/undefined/c-plus-plus.png"/>
+        <img align="center" src="https://img.icons8.com/color/48/undefined/c-sharp-logo-2.png" />
+        <img align="center" src="https://img.icons8.com/color/48/undefined/python--v1.png" />
     
  
   
