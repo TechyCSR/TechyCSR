@@ -12,7 +12,8 @@
     </a>
 </p>
 <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%1A5B1F&center=true&vCenter=true&lines=ʙ.ᴛᴇᴄʜ ᴄꜱᴇ ꜱᴛᴜᴅᴇɴᴛ|ᴘʏᴛʜᴏɴ ᴅᴇᴠ."/>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%1A5B1F&center=true&vCenter=true&lines=Hello"/>
+    
 <div style="border: 1px solid blue; padding: 10px;">
     </p>
     <p align="center"><bold>⭐ᴍʏ ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ⭐</bold></p>
