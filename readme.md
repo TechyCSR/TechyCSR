@@ -7,7 +7,7 @@
     </a>
 </p>
 <p align="center">
-    <a href="https://techycsr.tech/">
+    <a href="https://techycsr.me">
 @TechyCSR
     </a>
 </p>
