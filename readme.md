@@ -9,7 +9,7 @@
         <img align="center" src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
         <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-css-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
         <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/undefined/external-java-script-web-development-flaticons-lineal-color-flat-icons-2.png" />
-=        <img align="center" src="https://img.icons8.com/color/48/000000/git.png" />
+        <img align="center" src="https://img.icons8.com/color/48/000000/git.png" />
         <img align="center" src="https://img.icons8.com/metro/26/undefined/c-plus-plus.png"/>
         <img align="center" src="https://img.icons8.com/color/48/undefined/python--v1.png" />
     
@@ -40,3 +40,11 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCSR&theme=buefy&layout=compact"
          alt="Top Languages" />
 </a>
+
+## <p align="center">⭐ᴍʏ ɢɪᴛʜᴜʙ GRAPH⭐</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techycsr&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=4F46E5" width="80%" />
+</p>
+
+
