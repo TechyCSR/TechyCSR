@@ -1,102 +1,112 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1A5B1F&center=true&vCenter=true&width=435&lines=Chandan+Singh;AI/ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG">
-</p>
-
----
-
-## 👋 About Me
-
-I code a little bit to make you a little more happy. AI/ML is what I live through. Part of [@github-club-lpu](https://github.com/github-club-lpu).
-
-- 🌱 I’m currently learning **Advanced Machine Learning Techniques**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, Machine Learning, and Web Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/techycsr) | [Twitter](https://twitter.com/techycsr) | [Telegram](https://t.me/techycsr)
-
----
-
-## 🛠️ My Tech Stack
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/undefined/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/undefined/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/undefined/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/undefined/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/undefined/linux.png" alt="Linux"/>
-</p>
-
----
-
-
-<h2 align="center">📊 GitHub Insights</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechyCSR&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true&custom_title=Stats+Overview&hide=stars" alt="GitHub Stats" width="500" style="transition: transform 0.3s; animation: bounce 2s infinite;" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TechyCSR&theme=dracula&hide_border=true" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="300" style="transition: transform 0.3s; animation: fadeIn 2s infinite;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechyCSR&theme=dracula" alt="Profile Details" width="600" style="animation: slideIn 3s ease-in-out infinite;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&height=100&lines=Chandan+Singh;AI/ML+Enthusiast;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TechyCSR&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/TechyCSR?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/TechyCSR?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
 
-## 🔥 Contribution Graph
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechyCSR&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=4F46E5" width="80%" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechyCSR&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</div>
+
+I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing my Bachelor's in Computer Science & Engineering at Lovely Professional University. I specialize in building intelligent applications that combine cutting-edge AI technologies with modern web development practices.
+
+- 🌱 Currently exploring **Advanced Machine Learning Techniques** and **Large Language Models**
+- 💡 Building innovative AI solutions and contributing to open-source projects
+- 🎯 Focused on creating impactful applications that solve real-world problems
+- 🤝 Open to collaborating on exciting AI/ML projects
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html,css,git,docker,linux,aws&perline=5" alt="Tech Stack" />
+</div>
+
+### 🎯 Core Competencies
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, Computer Vision, NLP
+- **Web Development**: React, Node.js, Express, MongoDB, PostgreSQL
+- **DevOps**: Docker, AWS, CI/CD, Git
+- **Tools**: VS Code, Jupyter Notebook, Postman, Figma
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechyCSR&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="500" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TechyCSR&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="400" />
+</div>
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the notable projects I've worked on:
+### 🤖 AdvAITelegramBot
+> Advanced AI ChatBot integrating GPT-4, DALL-E, and other AI technologies
+- **Tech Stack**: Python, OpenAI API, Telegram API
+- **Features**: GPT-4 Integration, DALL-E Image Generation, Advanced AI Capabilities
+- **Links**: 
+  - [GitHub](https://github.com/TechyCSR/AdvAITelegramBot)
+  - [Live Demo](https://t.me/AdvAITelegramBot)
 
-- **[AdvAITelegramBot](https://github.com/TechyCSR/AdvAITelegramBot)**: A Telegram Advanced AI ChatBot integrating GPT-4, DALL-E, and other advanced AI technologies. :contentReference[oaicite:0]{index=0}
+### 📝 Notes-Making Web App
+> Modern note-taking application with rich text editing and sharing capabilities
+- **Tech Stack**: PHP, MySQL, JavaScript, Bootstrap
+- **Features**: Secure Authentication, Rich Text Editor, Public Sharing, Tags & Search
+- **Links**: 
+  - [GitHub](https://github.com/TechyCSR/Notes-Making-Web-App)
+  - [Live Demo](https://notes.synergize.co/?i=1)
 
-- **[Real-Time-Emotion-Detection](https://github.com/TechyCSR/Real-Time-Emotion-Detection)**: A web-based application that uses deep learning and computer vision to detect facial emotions in real-time from a webcam feed.
-
-- **[Text-Based-Emotion-Detector](https://github.com/TechyCSR/Text-Based-Emotion-Detector)**: An easy-to-use tool for analyzing emotions in text, uncovering the underlying emotional tone of any textual input.
-
-- **[GUIPersonalAIAssistant](https://github.com/TechyCSR/GUIPersonalAIAssistant)**: Your personal AI assistant using the Edge Libraries, designed to assist with various tasks. :contentReference[oaicite:1]{index=1}
-
-For more projects, visit my [GitHub repositories](https://github.com/TechyCSR?tab=repositories).
-
----
-
-## 🎓 Education
-
-- **Bachelor of Computer Science & Engineering** (2023 - 2027)
-  - Lovely Professional University, India's Largest Private University
-  - Trained under best professors in Python, C++, Java & Web Development :contentReference[oaicite:2]{index=2}
-
-- **Senior Secondary Education (XII)** (2021 - 2023)
-  - Delhi Public School (V.Kunj)
-  - Successfully cleared XII Boards
-
-- **Secondary Education (X)** (2013 - 2017)
-  - RDPS School Bilara (Jod.)
-  - Scored more than 94%, was class topper as well as school ranker :contentReference[oaicite:3]{index=3}
+### 😊 Real-Time Emotion Detection
+> Web-based application for real-time facial emotion detection
+- **Tech Stack**: Python, OpenCV, Deep Learning, Flask
+- **Features**: Real-time Detection, Multiple Emotion Recognition, Web Interface
+- **Links**: 
+  - [GitHub](https://github.com/TechyCSR/Real-Time-Emotion-Detection)
+  - [Live Demo](https://emotion-detection.techycsr.me)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/techycsr"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/techycsr"><img src="https://img.icons8.com/color/48/undefined/twitter.png" alt="Twitter"/></a>
-  <a href="https://t.me/techycsr"><img src="https://img.icons8.com/color/48/undefined/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://techycsr.me"><img src="https://img.icons8.com/color/48/undefined/domain.png" alt="Website"/></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/techycsr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/techycsr">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://t.me/techycsr">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://techycsr.me">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
-## 📊 Visitor's Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{TechyCSR}/count.svg" alt="TechyCSR :: Visitor's Count"/>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{TechyCSR}/count.svg" alt="Visitor Count" />
+  <br>
+  <em>Thanks for visiting! Feel free to star my repositories if you find them useful.</em>
+</div>
 
 ---
 
-*Made with ❤ by [TechyCSR](https://github.com/TechyCSR)*
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&height=50&lines=Let's+Connect+and+Build+Something+Amazing!" alt="Typing SVG">
+</div>
