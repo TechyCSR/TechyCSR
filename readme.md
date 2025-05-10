@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechyCSR&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+  
   <img src="https://img.shields.io/github/followers/TechyCSR?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/TechyCSR?label=Stars&style=social" alt="GitHub Stars" />
 </div>
@@ -48,13 +48,15 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TechyCSR&theme=radical" alt="Profile Details" width="600" />
 </div>
 
 ---
 
-## 🚀 Projects
 
-### 🤖 AdvAITelegramBot
+### Projects
+
+#### 🤖 AdvAITelegramBot
 > Advanced AI ChatBot integrating GPT-4, DALL-E, and other AI technologies
 - **Tech Stack**: Python, OpenAI API, Telegram API
 - **Features**: GPT-4 Integration, DALL-E Image Generation, Advanced AI Capabilities
@@ -62,7 +64,7 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
   - [GitHub](https://github.com/TechyCSR/AdvAITelegramBot)
   - [Live Demo](https://t.me/AdvAITelegramBot)
 
-### 📝 Notes-Making Web App
+#### 📝 Notes-Making Web App
 > Modern note-taking application with rich text editing and sharing capabilities
 - **Tech Stack**: PHP, MySQL, JavaScript, Bootstrap
 - **Features**: Secure Authentication, Rich Text Editor, Public Sharing, Tags & Search
@@ -70,13 +72,34 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
   - [GitHub](https://github.com/TechyCSR/Notes-Making-Web-App)
   - [Live Demo](https://notes.synergize.co/?i=1)
 
-### 😊 Real-Time Emotion Detection
+#### 😊 Real-Time Emotion Detection
 > Web-based application for real-time facial emotion detection
 - **Tech Stack**: Python, OpenCV, Deep Learning, Flask
 - **Features**: Real-time Detection, Multiple Emotion Recognition, Web Interface
 - **Links**: 
   - [GitHub](https://github.com/TechyCSR/Real-Time-Emotion-Detection)
   - [Live Demo](https://emotion-detection.techycsr.me)
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechyCSR&theme=radical&bg_color=00000000&hide_border=true&area=true&area_color=4F46E5" width="80%" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bachelor's%20in%20CSE-2023--2027-blue?style=for-the-badge" alt="Education" />
+</div>
+
+- **Bachelor of Computer Science & Engineering** (2023 - 2027)
+  - Lovely Professional University
+  - Specialized in AI/ML and Web Development
+  - Active member of GitHub Club LPU
 
 ---
 
