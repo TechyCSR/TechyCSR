@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechyCSR&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TechyCSR&label=Profile%5000Views&color=4F46E5&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/TechyCSR?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/TechyCSR?label=Stars&style=social" alt="GitHub Stars" />
 </div>
