@@ -43,7 +43,7 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechyCSR&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="500" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TechyCSR&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=TechyCSR&theme=radical&hide_border=true" alt="Streak Stats" width="500" />
 </div>
 
 <div align="center">
