@@ -58,16 +58,6 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/TechyCSR/AdvAITelegramBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechyCSR&repo=AdvAITelegramBot&theme=radical" alt="AdvAITelegramBot" />
-  </a>
-  <a href="https://github.com/TechyCSR/Notes-Making-Web-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechyCSR&repo=Notes-Making-Web-App&theme=radical" alt="Notes-Making-Web-App" />
-  </a>
-</div>
 
 Here are some projects I've poured my heart into:
 
