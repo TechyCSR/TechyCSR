@@ -42,12 +42,11 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechyCSR&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="500" />
-  <img src="https://streak-stats.demolab.com/?user=TechyCSR&theme=radical&hide_border=true" alt="Streak Stats" width="500" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TechyCSR&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="500" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="400" />
 </div>
 
 ---
