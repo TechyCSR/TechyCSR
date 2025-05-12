@@ -46,7 +46,7 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-navy.vercel.app?user=TechyCSR&theme=radical&hide_border=true" alt="GitHub Streak" width="500" /></a>
+  <a href="https://techycsr.me"><img src="https://streak.techycsr.me/?user=techycsr&theme=radical" alt="GitHub Streak" width="500" /></a>
 </div>
 
 <div align="center">
