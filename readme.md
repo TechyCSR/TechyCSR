@@ -46,6 +46,10 @@ I'm a passionate AI/ML enthusiast and Full Stack Developer, currently pursuing m
 </div>
 
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-navy.vercel.app?user=TechyCSR&theme=radical&hide_border=true" alt="GitHub Streak" width="500" /></a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="400" />
 </div>
 
