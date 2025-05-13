@@ -65,19 +65,19 @@ Here are some projects I've poured my heart into:
 > I wanted to bring the power of GPT-4 to Telegram, so I built this
 - **Tech**: Built with Python, powered by OpenAI and Telegram APIs
 - **Cool Features**: It can generate images with DALL-E and chat naturally like a human
-- **Try It**: [Chat with the bot](https://t.me/AdvAITelegramBot) or [check out the code](https://github.com/TechyCSR/AdvAITelegramBot)
+- **Try It**: [Chat with the bot](https://t.me/AdvChatGptBot) or [check out the code](https://github.com/TechyCSR/AdvAITelegramBot)
 
 ### 📝 Notes-Making Web App
 > My take on what a modern note app should be - clean, fast, and feature-rich
 - **Tech**: PHP backend with MySQL, vanilla JS frontend that's surprisingly snappy
 - **What I'm Proud Of**: The rich text editor, tag system, and dark mode that doesn't hurt your eyes
-- **Links**: [Take some notes](https://notes.synergize.co/?i=1) or [peek under the hood](https://github.com/TechyCSR/Notes-Making-Web-App)
+- **Links**: [Take some notes](https://notes.synergize.co/) or [peek under the hood](https://github.com/TechyCSR/Notes-Making-Web-App)
 
 ### 😊 Real-Time Emotion Detection
 > Using computer vision to understand human emotions has endless applications
 - **Tech Stack**: Python with OpenCV and a custom-trained CNN model
 - **The Challenge**: Getting it to work in real-time was tricky, but worth it
-- **See It**: [Try the demo](https://emotion-detection.techycsr.me) or [explore the code](https://github.com/TechyCSR/Real-Time-Emotion-Detection)
+- **See It**: [Try the demo](https://realtime-emotion-detection.streamlit.app/) or [explore the code](https://github.com/TechyCSR/Real-Time-Emotion-Detection)
 
 ---
 
