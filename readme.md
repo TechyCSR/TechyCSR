@@ -20,7 +20,7 @@ I'm a CS student at Lovely Professional University with a passion for building i
 
 I believe that AI/ML has the power to transform our world, and I'm excited to be part of that journey. My goal is to create meaningful tech that makes people's lives a little better and a little easier.
 
-- 🌱 Currently diving deep into advanced ML techniques and LLMs
+- 🌱 Currently diving deep into advanced ML techniques and CyberSecurity
 - 💡 Working on some cool AI side-projects (check them out below!)
 - 🎮 When not coding: music enthusiast, occasional gamer, and always up for coffee
 - 🤝 Looking to collaborate? Shoot me a message - always open to interesting projects
