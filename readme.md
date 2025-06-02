@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Hey there, I'm Chandan aka CSR!
+## 👋 Hey there, I'm Chandan !
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TechyCSR&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
