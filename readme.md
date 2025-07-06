@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TechyCSR&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views" />
+
   <img src="https://img.shields.io/github/followers/TechyCSR?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/TechyCSR?label=Stars&style=social" alt="GitHub Stars" />
 </div>
@@ -45,7 +45,7 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TechyCSR&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechyCSR&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" width="500" />
 </div>
 
 <div align="center">
@@ -53,7 +53,7 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCSR&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="500" />
 </div>
 
 ---
