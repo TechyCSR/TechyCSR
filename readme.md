@@ -13,7 +13,7 @@
 ## 👋 Hey there, I'm Chandan!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechyCSR&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=TechyCSR&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 I'm a CS student at Lovely Professional University with a passion for building intelligent apps that solve real problems. When I'm not coding, you can find me exploring the latest ML papers or contributing to open-source projects that catch my eye.
@@ -60,6 +60,13 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 
 
 Here are some projects I've poured my heart into:
+
+### 🚀 OpenCluely
+> A free, open-source alternative to Cluely for technical interviews - built for DSA, competitive programming, and coding assessments
+- **Tech**: Electron app with JavaScript, featuring AI-powered assistance and smart image processing
+- **What Makes It Special**: Invisible overlay, real-time AI help, multi-language support, and 100% customizable - completely private and secure
+- **Features**: Screenshot capture with Gemini analysis, voice recognition, session memory, and stealth mode for interviews
+- **Links**: [Try OpenCluely](https://github.com/TechyCSR/OpenCluely) - Perfect for acing technical interviews ethically!
 
 ### 🤖 AdvAITelegramBot
 > I wanted to bring the power of GPT-4 to Telegram, so I built this
