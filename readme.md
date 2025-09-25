@@ -49,7 +49,7 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 </div>
 
 <div align="center">
-  <a href="https://techycsr.me"><img src="https://streak.techycsr.me/?user=techycsr&theme=radical" alt="GitHub Streak" width="500" /></a>
+  <a href="https://techycsr.dev"><img src="https://streak.techycsr.dev/?user=techycsr&theme=radical" alt="GitHub Streak" width="500" /></a>
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ Here are some projects I've poured my heart into:
   <a href="https://t.me/techycsr">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://techycsr.me">
+  <a href="https://techycsr.dev">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
