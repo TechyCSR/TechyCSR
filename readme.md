@@ -47,18 +47,6 @@ const chandan: Developer = {
 };
 ```
 
-<div align="center">
-
-### 🏆 GitHub Achievements
-  
-<img src="https://github-profile-trophy.vercel.app/?username=TechyCSR&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-
-<br/>
-
-**`GitHub Pro`** • **`Developer Program Member`** • **`Open Source Contributor`**
-
-</div>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> Currently Building
@@ -261,14 +249,6 @@ Modern, secure note-taking app with rich text editing and public sharing.
 </div>
 
 ---
-### 💼 Open For
-
-<img src="https://img.shields.io/badge/Freelance_Projects-A855F7?style=flat-square" alt="Freelance"/>
-<img src="https://img.shields.io/badge/Open_Source_Collabs-A855F7?style=flat-square" alt="Open Source"/>
-<img src="https://img.shields.io/badge/GenAI_Consulting-A855F7?style=flat-square" alt="GenAI"/>
-<img src="https://img.shields.io/badge/Full--Time_Opportunities-A855F7?style=flat-square" alt="Full-Time"/>
-
-</div>
 
 ---
 
