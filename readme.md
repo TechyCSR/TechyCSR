@@ -4,11 +4,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chandan%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Engineer%20%7C%20Open%20Source&descAlignY=52&descSize=18" width="100%"/>
 
 <!-- Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Crafting+Modern+Web+Experiences+%F0%9F%8C%90;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Crafting+Modern+Web+Experiences+%F0%9F%8C%90" alt="Typing SVG" />
 
-<br>
-<br>
-<br>
+
 
 <!-- Social Badges -->
 <a href="https://techycsr.dev"><img src="https://img.shields.io/badge/Portfolio-techycsr.dev-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
@@ -53,32 +51,33 @@ const chandan: Developer = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> Currently Building
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> What I'm Building
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
-  
-🔭 **Working On:** AI-powered developer tools & automation
-  
-🌱 **Exploring:** LangGraph, Multi-Agent Systems, RAG architectures
-  
-🤝 **Open To:** Collabs on GenAI & Open Source projects
-
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50"/>
+<h3>GenAI Solutions</h3>
+Building intelligent AI agents with LangChain, RAG systems, and multi-modal LLM applications
 </td>
-<td width="50%">
-
-```text
-This Week's Focus:
-━━━━━━━━━━━━━━━━━━━━━
-🤖 GenAI Projects    ████████░░  80%
-🌐 Web Development   ██████░░░░  60%
-📚 Learning          ████░░░░░░  40%
-```
-
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="50"/>
+<h3>Modern Web Apps</h3>
+Crafting responsive, full-stack applications with Next.js, React, and Node.js ecosystems
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="50"/>
+<h3>Developer Tools</h3>
+Creating automation tools and open-source utilities to boost developer productivity
 </td>
 </tr>
 </table>
+
+**Currently Exploring:** LangGraph • Multi-Agent Systems • RAG Architectures • Vector Databases
+
+</div>
 
 ---
 
@@ -87,7 +86,7 @@ This Week's Focus:
 <div align="center">
 
 ### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,react,nextjs,nodejs,express,fastapi&perline=10" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,nodejs,express,fastapi&perline=10" alt="Languages"/>
 
 ### 🤖 GenAI & Machine Learning
 <p>
@@ -102,10 +101,10 @@ This Week's Focus:
 </p>
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase,supabase,aws,gcp,vercel,docker&perline=10" alt="Databases & Cloud"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,gcp,azure,vercel,docker&perline=6" alt="Databases & Cloud"/>
 
 ### 🛠️ Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,nginx,bash&perline=8" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,nginx,bash&perline=7" alt="Tools"/>
 
 </div>
 
@@ -271,8 +270,6 @@ Modern, secure note-taking app with rich text editing and public sharing.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-**© 2025 Chandan Singh | Crafted with 💜 and endless ☕**
 
 
 </div>
