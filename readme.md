@@ -6,8 +6,10 @@
 <!-- Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI-Powered+Applications+%F0%9F%A4%96;Crafting+Modern+Web+Experiences+%F0%9F%8C%90;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
-<br/>
-<br/>
+<br>
+<br>
+<br>
+
 <!-- Social Badges -->
 <a href="https://techycsr.dev"><img src="https://img.shields.io/badge/Portfolio-techycsr.dev-A855F7?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/techycsr"><img src="https://img.shields.io/badge/LinkedIn-techycsr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
