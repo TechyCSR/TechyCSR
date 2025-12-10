@@ -16,14 +16,16 @@
   <img src="https://github-trophies.vercel.app/?username=TechyCSR&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-I'm a CS student at Lovely Professional University with a passion for building intelligent apps that solve real problems. When I'm not coding, you can find me exploring the latest ML papers or contributing to open-source projects that catch my eye.
+I'm a Computer Science student at **Lovely Professional University** with a passion for building intelligent applications that solve real-world problems. When I'm not coding, you'll find me exploring the latest ML research papers or contributing to open-source projects.
 
-I believe that AI/ML has the power to transform our world, and I'm excited to be part of that journey. My goal is to create meaningful tech that makes people's lives a little better and a little easier.
+I believe AI/ML has the power to transform our world, and I'm excited to be part of that journey. My goal is to create meaningful technology that makes people's lives easier and better.
 
-- 🌱 Currently diving deep into advanced ML techniques and CyberSecurity
-- 💡 Working on some cool AI side-projects (check them out below!)
-- 🎮 When not coding: music enthusiast, occasional gamer, and always up for coffee
-- 🤝 Looking to collaborate? Shoot me a message - always open to interesting projects
+### 🎯 What I'm Up To
+
+- 🌱 **Learning**: Advanced ML techniques and CyberSecurity
+- 💡 **Building**: Cool AI side-projects (check them out below!)
+- 🎮 **Outside Code**: Music enthusiast, occasional gamer, coffee lover ☕
+- 🤝 **Collaboration**: Always open to interesting projects - let's connect!
 
 ---
 
@@ -49,7 +51,7 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 </div>
 
 <div align="center">
-  <a href="https://techycsr.dev"><img src="https://streak.techycsr.dev/?user=techycsr&theme=radical" alt="GitHub Streak" width="500" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechyCSR&theme=radical&hide_border=true" alt="GitHub Streak" width="500" />
 </div>
 
 <div align="center">
@@ -58,6 +60,7 @@ I've spent years building up my tech toolkit, focusing on what helps me create e
 
 ---
 
+## 🚀 Featured Projects
 
 Here are some projects I've poured my heart into:
 
@@ -108,7 +111,7 @@ Here are some projects I've poured my heart into:
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{TechyCSR}/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=TechyCSR&label=Profile%20Views&color=4F46E5&style=flat" alt="Profile Views" />
   <br>
   <em>Thanks for dropping by! If you found something useful here, a star would make my day ⭐</em>
 </div>
