@@ -40,44 +40,13 @@ const chandan: Developer = {
     genAI: ["LangChain", "RAG", "Prompt Engineering", "Fine-tuning"],
     llms: ["GPT-4", "Gemini Pro", "DeepSeek", "Qwen", "Claude"],
     imageGen: ["DALL-E 3", "Flux", "Stable Diffusion"],
-    fullStack: ["React", "Next.js", "Node.js", "Python", "FastAPI"],
+    fullStack: ["React", "Next.js", "Node.js", "Python", "FastAPI","Flask"]
   },
   
   passions: ["Building AI products", "Open Source", "Developer Tools"],
-  
-  funFact: "I automate everything with AI, even my coffee orders ☕🤖"
+
 };
 ```
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> What I'm Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50"/>
-<h3>GenAI Solutions</h3>
-Building intelligent AI agents with LangChain, RAG systems, and multi-modal LLM applications
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="50"/>
-<h3>Modern Web Apps</h3>
-Crafting responsive, full-stack applications with Next.js, React, and Node.js ecosystems
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="50"/>
-<h3>Developer Tools</h3>
-Creating automation tools and open-source utilities to boost developer productivity
-</td>
-</tr>
-</table>
-
-**Currently Exploring:** LangGraph • Multi-Agent Systems • RAG Architectures • Vector Databases
-
-</div>
 
 ---
 
