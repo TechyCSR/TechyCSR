@@ -151,8 +151,6 @@ State-of-the-art Telegram bot with GPT-4.1, Qwen-3, DeepSeek-R1, DALL-E 3, and F
 [![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/TechyCSR/AdvAITelegramBot)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="18"/> [Real-Time Emotion Detection](https://github.com/TechyCSR/Real-Time-Emotion-Detection)
@@ -173,6 +171,8 @@ Deep learning system for detecting 7 emotions from webcam feed in real-time.
 [![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/TechyCSR/Real-Time-Emotion-Detection)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="18"/> [Text-Based Emotion Detector](https://github.com/TechyCSR/Text-Based-Emotion-Detector)
@@ -193,8 +193,6 @@ ML-powered web app for analyzing emotions in text - articles, comments, or any t
 [![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/TechyCSR/Text-Based-Emotion-Detector)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Pot%20of%20Food.png" width="18"/> [RecipeGenerator](https://github.com/TechyCSR/RecipeGenerator)
@@ -214,6 +212,8 @@ Smart recipe generator with AI-powered suggestions and grocery planning features
 [![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/TechyCSR/RecipeGenerator)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" width="18"/> [Notes Web App](https://github.com/TechyCSR/Notes-Making-Web-App)
