@@ -34,13 +34,13 @@ const chandan: Developer = {
   location: "India 🇮🇳",
   education: "B.Tech CSE @ Lovely Professional University",
   
-  currentFocus: ["Generative AI", "Full Stack Development", "Open Source"],
+  currentFocus: ["Python Backend Engineering", "Agentic AI", "Open Source"],
   
   expertise: {
-    genAI: ["LangChain", "RAG", "Prompt Engineering", "Fine-tuning"],
-    llms: ["GPT-4", "Gemini Pro", "DeepSeek", "Qwen", "Claude"],
-    imageGen: ["DALL-E 3", "Flux", "Stable Diffusion"],
-    fullStack: ["React", "Next.js", "Node.js", "Python", "FastAPI","Flask"]
+    pythonBackend: ["FastAPI", "Flask", "Django", "Celery", "REST APIs", "WebSockets"],
+    genAI: ["Agentic AI", "MCP", "LangChain", "RAG", "Prompt Engineering"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    tooling: ["Docker", "Git", "Linux", "CI/CD"]
   },
   
   passions: ["Building AI products", "Open Source", "Developer Tools"],
@@ -54,26 +54,26 @@ const chandan: Developer = {
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,nodejs,express,fastapi&perline=10" alt="Languages"/>
+### 🐍 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp&perline=10" alt="Languages"/>
 
-### 🤖 GenAI & Machine Learning
+### ⚡ Backend & APIs
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express&perline=10" alt="Backend Frameworks"/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&perline=10" alt="Databases"/>
+
+### 🤖 GenAI Toolkit
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
 </p>
 
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,gcp,azure,vercel,docker&perline=6" alt="Databases & Cloud"/>
-
-### 🛠️ Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,nginx,bash&perline=7" alt="Tools"/>
+### 🛠️ Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,nginx&perline=10" alt="Dev Tools"/>
 
 </div>
 
@@ -105,6 +105,30 @@ Privacy-focused alternative to Cluely for DSA, OAs, and competitive programming 
 [![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/TechyCSR/OpenCluely)
 
 </td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="18"/> [Portlify](https://github.com/TechyCSR/Portlify)
+
+**AI Resume → Live Portfolio in 10s**
+
+Transforms your resume into a live, shareable portfolio in just 10 seconds. Upload your resume, get a portfolio URL instantly — no coding required.
+
+`React` `Node.js` `Express` `MongoDB` `AI Parsing`
+
+**Highlights:**
+- ⚡ Resume to live portfolio in ~10 seconds
+- 🧠 AI-powered parsing & smart skill categorization
+- 🔗 Custom shareable username URLs
+- 🎨 Glassmorphic UI with dark/light themes
+- 📦 Export portfolio as a static site
+
+[![Live](https://img.shields.io/badge/Try_Live-portlifyai.app-A855F7?style=flat-square&logo=vercel)](https://portlifyai.app/)
+[![Stars](https://img.shields.io/github/stars/TechyCSR/Portlify?style=flat-square&color=A855F7)](https://github.com/TechyCSR/Portlify/stargazers)
+[![Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/TechyCSR/Portlify)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18"/> [AdvAITelegramBot](https://github.com/TechyCSR/AdvAITelegramBot)
